@@ -1,0 +1,40 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.meals-container {
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
+
+.msg-container {
+  font-family: Roboto, sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  width: 100%;
+  margin: 50px 100px;
+  text-align: center;
+  color: #fff;
+}
+
+@media screen and (min-width: 500px) {
+  .meals-container {
+    display: grid;
+    gap: 0;
+    width: 80%;
+    margin: 0 auto;
+    grid-template-columns: repeat(4, 1fr);
+    justify-content: space-between;
+    align-content: start;
+  }
+
+  .msg-container {
+    margin: 70px 120px;
+    display: flex;
+    width: 100%;
+  }
+}

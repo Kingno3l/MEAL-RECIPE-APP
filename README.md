@@ -1,71 +1,196 @@
-# Getting Started with Create React App
+<a name="readme-top"></a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align="center">
 
-## Available Scripts
+ <!-- LOGO -->
 
-In the project directory, you can run:
+  <br/>
 
-### `npm start`
+<!-- MAIN HEADING -->
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+  <h3><b>MEAL RECIPE APP</b></h3>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+</div>
 
-### `npm test`
+<!-- TABLE OF CONTENTS -->
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# 📗 Table of Contents
 
-### `npm run build`
+- [� Table of Contents](#-table-of-contents)
+- [📖MEAL RECIPE APP ](#meal-recipe-app-)
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
+  - [🚀 Live Demo ](#-live-demo-)
+  - [Presentation Video ](#presentation-video-)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Setup](#setup)
+    - [Prerequisites](#prerequisites)
+    - [Install](#install)
+    - [Usage](#usage)
+    - [Run tests](#run-tests)
+  - [👥 Authors ](#-authors-)
+  - [🔭 Future Features ](#-future-features-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [📝 License ](#-license-)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<!-- INTRO -->
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# 📖MEAL RECIPE APP <a name="about-project"></a>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+> The Meal Recipe App allows users to see a list of nutrient numeric value on the website.
+## 🛠 Built With <a name="built-with"></a>
 
-### `npm run eject`
+1. React
+2. CSS
+3. JavaScript
+4. Webpack
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Tech Stack <a name="tech-stack"></a>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">React</a></li>
+    <li><a href="https://www.w3.org/">CSS</a></li>
+    <li><a href="https://www.javascript.com/">JavaScript</a></li>
+    <li><a href="https://webpack.js.org/">Webpack</a></li>
+  </ul>
+</details>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<!-- Features -->
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Key Features <a name="key-features"></a>
 
-## Learn More
+> - Fetch data from spoonocular app
+> - Fetch details on details page
+> - Outputs numeric data values.
+  
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 🚀 Live Demo <a name="live-demo"></a>
 
-### Code Splitting
+> Add a link to your deployed project.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- [Live Demo Link](https://ayo-on-code-meal-recipe.onrender.com)
 
-### Analyzing the Bundle Size
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+## Presentation Video <a name="video-presentation"></a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+- [Presentation Video Link](https://www.loom.com/share/3484f205e10e46e8844a975d4c756e3a?sid=88e70803-c244-4a8f-b8eb-609acda369be)
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+<!-- GETTING STARTED -->
 
-### Deployment
+## 💻 Getting Started <a name="getting-started"></a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+> To get a local copy of the project, use this link:
 
-### `npm run build` fails to minify
+```sh
+cd meal-recipe-app
+git@github.com:Kingno3l/meal-recipe-app.git
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# MEAL-RECIPE-APP
+<!-- SETUP -->
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Setup
+
+To setup this project, run this command:
+
+```sh
+npm start
+```
+
+### Prerequisites
+
+1. A Browser (Preferably Google Chrome)
+2. A Code Editor
+3. Internet Connection
+4. Git
+
+<!-- INSTALL -->
+
+### Install
+
+Install this project with node modules and npm.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Usage
+
+To run the project, execute the following command:
+
+```sh
+npm start
+```
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Run tests
+
+To test the project, execute the following command:
+
+```sh
+npm run test
+```
+
+<!-- ## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo Link]() -->
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
+
+👤 **King Immanuel**
+
+- GitHub: [@Kingno3l](https://github.com/Kingno3l)
+- LinkedIn: [@Kingno3l](https://www.linkedin.com/in/Kingo3l)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **Improve User Experience**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTION -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!--SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+> If you like this project, please give it some starts ⭐️⭐️⭐️⭐️⭐️
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+> Special acknowledgement to  Nelson Sakwa on Behance
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](/LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
